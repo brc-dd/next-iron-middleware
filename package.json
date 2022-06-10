@@ -7,7 +7,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "iron-session": "file:..\\iron-session\\iron-session-6.1.3.tgz",
+    "iron-session": "file:iron-session.tgz",
     "next": "canary",
     "octokit": "latest",
     "react": "latest",
